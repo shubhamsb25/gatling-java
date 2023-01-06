@@ -1,0 +1,4 @@
+{
+  "idField": "#{idField}",
+  "nameField": "#{nameField}"
+}
